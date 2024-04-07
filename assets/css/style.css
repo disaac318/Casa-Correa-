@@ -1,0 +1,137 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap')
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo-type {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  /* color: orangered; */
+
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-image {
+  width: 40px;
+  margin-right: 10px;
+
+}
+
+body {
+ font-family: 'monserrat', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+.slide-text2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size: 1.2rem;
+ 
+
+}
+
+.casa-bg {
+  background: url(/assets/images/heroBG\ copy.png);
+  background-size: cover;
+  background-position: absolute;
+  background-repeat: no-repeat;
+}
+
+.bgteal {
+  background-color: #167D7F
+}
+
+.active {
+  color: #f48d07;
+  font-weight: bolder;
+}
+
+.bgteal20 {
+  background-color: #eafbef;
+  /* opacity: 0.2; */
+}
+
+/* h1 {
+  font-family: 'Montserrat', sans-serif;
+} */
+
+/* darken the slide image */
+.overlay-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0; 
+  bottom: 0;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.5;
+
+}
+
+
+
+/* darken the slide image */
+.overlay-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0; 
+  bottom: 0;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.5;
+}
+
+.slide-dark {
+  position: relative;
+}
+
+.slide-dark::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* Adjust the alpha value to darken/lighten the image */
+}
+
+
+
+iframe {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+
+}
+
+
+/* footer */
+
+.address {
+  line-height: 120%;
+}
+
+
+
+
+
+
+
