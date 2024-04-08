@@ -24,8 +24,8 @@
 }
 
 .logo-image {
-  width: 40px;
-  margin-right: 10px;
+  width: 100px;
+  margin-right: 24px;
 
 }
 
@@ -127,6 +127,10 @@ iframe {
 
 .address {
   line-height: 120%;
+}
+
+.custom-icon {
+  font-size: 30px;
 }
 
 
