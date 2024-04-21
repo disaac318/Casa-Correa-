@@ -20,8 +20,6 @@
       - [What I need to know as Returning Customer](#what-i-need-to-know-as-returning-customer)
   - [Design](#design)
     - [Design Choices](#design-choices)
-    
-  
     - [Code](#code)
   - [Acknowledgements](#acknowledgements)
 
@@ -152,7 +150,7 @@ _____    Continue from here
 ### Code
 
 - The HTML for the responsive [Navbar with toggler](https://getbootstrap.com/docs/5.0/components/navbar/#toggler) was taken from the Bootstrap v5.0 documentation code snippet
-- [Carousel](https://getbootstrap.com/docs/5.0/components/carousel/#with-indicators) on index page was taken from Bootrap v5.0 documentation code snippet
+- [Carousel](https://getbootstrap.com/docs/5.0/components/carousel/#with-indicators) on index page was taken from Bootrap v5.0 documentation code snippet.
 
 
 ## Acknowledgements
