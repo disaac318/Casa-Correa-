@@ -3,11 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap')
 
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 
 .logo-type {
   font-family: 'Montserrat', sans-serif;
@@ -47,7 +43,7 @@ body {
 .casa-bg {
   background: url(../images/CC-Hero-page.png);
   background-size: cover;
-  background-position: absolute;
+  /* background-position: absolute; */
   background-repeat: no-repeat;
 }
 
@@ -65,9 +61,7 @@ body {
   /* opacity: 0.2; */
 }
 
-/* h1 {
-  font-family: 'Montserrat', sans-serif;
-} */
+
 
 /* darken the slide image */
 .overlay-image {
