@@ -1,7 +1,7 @@
 # Casa Correa  |  Events Place and Private Resort
 (Developer: Dean Isaac)
 
-![Mockup image](docs/am-i-responsive.jpg)
+![Mockup image](docs/mock%20ups/Home%20Office%20Mockup%20copy.png)
 
 [Live webpage](https://disaac318.github.io/Casa-Correa-Resort/)
 
@@ -20,11 +20,32 @@
       - [What I need to know as Returning Customer](#what-i-need-to-know-as-returning-customer)
   - [Design](#design)
     - [Design Choices](#design-choices)
-<<<<<<< HEAD
-=======
-    
-  
->>>>>>> origin/main
+    - [Colour](#colour)
+    - [Fonts](#fonts)
+    - [Structure](#structure)
+    - [Wireframes](#wireframes)
+  - [Technologies Used](#technologies-used)
+    - [Languages](#languages)
+    - [Frameworks \& Tools](#frameworks--tools)
+  - [Features](#features)
+    - [Navigation Bar](#navigation-bar)
+    - [The Hero Page](#the-hero-page)
+    - [Carousel](#carousel)
+    - [Newsletter](#newsletter)
+    - [Customers Reviews](#customers-reviews)
+    - [Footer](#footer)
+    - [Our Services](#our-services)
+    - [About Us](#about-us)
+    - [Contact Us](#contact-us)
+  - [Validation](#validation)
+    - [HTML Validation](#html-validation)
+    - [CSS Validation](#css-validation)
+    - [Performance](#performance)
+    - [Performing tests on various devices](#performing-tests-on-various-devices)
+    - [Browser compatibility](#browser-compatibility)
+  - [Deployment](#deployment)
+  - [Credits](#credits)
+    - [Media](#media)
     - [Code](#code)
   - [Acknowledgements](#acknowledgements)
 
@@ -87,7 +108,7 @@
 - Users expect personalized experiences tailored to their preferences, interests, and previous interactions with the resort.
 - They require responsive customer support channels, including live chat, email, or phone support, to address inquiries, resolve issues, and provide assistance throughout the booking process and their stay.
 - Users expect an accessible website design that accommodates users with disabilities or special needs, including assistive technologies and accessibility features.
-- 
+  
 
 ### User Stories
 
@@ -146,22 +167,212 @@ The webpage was designed to reflect the unique ambiance, atmosphere, and offerin
 8. Showcase social proof and testimonials from satisfied guests to build trust and credibility. Include guest reviews, testimonials, ratings, and endorsements prominently on your website to reassure potential guests and inspire confidence.
 9. Optimize website performance for fast loading times, smooth navigation, and efficient functionality. Minimize unnecessary elements, optimize images and videos, and leverage caching and compression techniques to improve page speed and performance.
 
-_____    Continue from here
+
+
+### Colour
+The resort aims to evoke a sense of tranquility and renewal, mirroring the calming effects of water. It offers guests an immersive experience where they feel rejuvenated and refreshed by the resort's aquatic elements, from serene pools and cascading waterfalls to soothing spa treatments inspired by the ocean's therapeutic powers. 
+
+To create my color palette, I drew inspiration from the color of the water and decided to use Canva's Water Foam color combination.  https://www.canva.com/colors/color-palettes/water-foam/
+
+<br>
+
+![Colour scheme](docs/theme/water-foam.png)
+
+
+### Fonts
+
+Montserrat was used for the body and Bebas Neue for the headings. Both fonts are considered dyslexia friendly.
+
+### Structure
+The website is structured to provide easy access to essential information and features, ensuring a seamless user experience. It typically includes the following pages: 
+- A homepage providing an overview of the resort's offerings, amenities, and highlights, often featuring captivating imagery and key call-to-action buttons for booking or exploring further.  The section also features invitation for newsletter for updates, tips and future promotions.  It also showcases a gallery of images highlighting the resort's features, amenities, and guest experiences, along with testimonials, reviews, and ratings from satisfied guests.
+- A sevices page describing what the resort offers and the operating hours and prices.
+- An about page provide visitors with a comprehensive understanding of the resort's identity, values, and offerings, fostering trust, credibility, and connection with potential guests.
+- A contact page with a contact form, a map and information about the bussines section
+
+### Wireframes
+
+<details><summary>Home</summary>
+<img src="docs/wireframes/home-page.png">
+</details>
+<details><summary>Our Services</summary>
+<img src="docs/wireframes/our-services-01.png">
+</details>
+<details><summary>About Us</summary>
+<img src="docs/wireframes/about-us.png">
+</details>
+<details><summary>Contact Us</summary>
+<img src="docs/wireframes/contact-us-01.png">
+</details>
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+- Bootstrap 5.0
+
+### Frameworks & Tools
+- Bootstrap v5.0
+- Git
+- GitHub
+- Photoshop
+- Illustrator
+- Google Fonts
+- Canva Color
+- Font Awsome
+- Flaticon
+
+## Features
+The page consists of four pages
+
+### Navigation Bar
+- Featured on all four pages
+- The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes
+links to the Home, Our Services, About Us, and Contact Us pages.
+- It allows users to easily navigate the page
+
+![Logo and navbar](docs/features/navigation-bar.png)
+
+### The Hero Page
+- The hero page for the resort serves as the captivating gateway to the website, inviting visitors to immerse themselves in the beauty and luxury of the resort. 
+- Featuring stunning imagery of the resort, inviting accommodations, and indulgent amenities, the hero page sets the stage for an unforgettable getaway experience. 
+- Concise and compelling messaging entices guests to explore further, promising relaxation and unforgettable memories amidst serene surroundings.
+  
+  ![The Hero Page](docs/features/hero-page.png)
+
+### Carousel
+- Introduces the user to the restaurant with ten pictures slide show
+- Options for the user to navigate the slide show via back and forward arrows or indicators at the bottom
+- It also serves as the Resort's Photo Gallery
+  
+![Carousel](docs/features/carousel.png)
+
+### Newsletter
+- The site's newsletter aims to establish and maintain a direct line of communication with subscribers, keeping them informed, engaged, and connected with the resort. 
+- The newsletter aims to nurture relationships with subscribers, encourage repeat visits, and drive bookings and reservations by regularly sending updates, promotions, special offers, and exclusive content via email.
+- The newsletter serves as a valuable marketing tool for promoting new amenities, events, and packages, enhancing brand awareness, and fostering loyalty among subscribers. 
+
+![Newsletter](docs/features/Newsletter.png)
+
+### Customers Reviews
+- Reviews provide valuable feedback for the resort, highlighting areas of strength and areas for improvement. This allows the resort to address any issues guests raise and continuously improve its offerings and services.
+- Positive reviews from satisfied guests build trust and credibility for the resort. Potential guests are more likely to trust the opinions and experiences of fellow travellers when making booking decisions.
+- Reviews significantly influence purchasing decisions. Potential guests often rely on reviews to gauge the quality and reputation of the resort before making a reservation.
+- Reviews offer insight into the guest experience, including what guests liked or disliked about their stay. This helps potential guests understand what to expect and whether the resort meets their preferences and needs.
+- Positive reviews can be leveraged for marketing and promotion purposes. They can be featured on the resort's website, social media channels, and marketing materials to showcase its reputation and attract new guests.
+
+![Customers Reviews](docs/features/reviews.png)
+
+### Footer
+- Featured on all four pages
+- Consists of contact information and social media links
+
+![Footer](docs/features/footer.png)
+
+### Our Services
+- Describes the glimpse of what the resort have to offer, along with our opening hours and pricing details
+
+![Our Services](docs/features/our-services.png)
+
+### About Us
+- serves as a platform to introduce the resort, sharing its inspiration, mission and visions.
+-  It aims to foster trust, connection, and understanding between the resort and potential guests, providing insights into its identity and ethos.
+
+![About Us](docs/features/about-us.png)
+
+### Contact Us
+- Provides contact information, including location details, for inquiries, feedback, and assistance.
+-  Provides visitors with essential information about where the resort is situated. It typically includes details such as the resort's physical address, a map showing its location, and possibly directions or nearby landmarks. 
+-  Allows visitors to easily send messages, inquiries, or feedback directly to the resort's team. It typically collects essential information such as the visitor's name, email address, and message, enabling the resort to respond promptly and effectively to their inquiries or requests. 
+
+![Contact Us](docs/features/contact-us1.png)
+![Contact Us](docs/features/contact-us2.png)
+![Contact Us](docs/features/contact-us3.png)
 
 
 
+## Validation
+
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+<details><summary>Home</summary>
+<img src="docs/validation /Home.png">
+</details>
+<details><summary>Our Services</summary>
+<img src="docs/validation /our-sevices.png">
+</details>
+<details><summary>About Us</summary>
+<img src="docs/validation /about-us.png">
+</details>
+<details><summary>Contact Us</summary>
+<img src="docs/validation /contact-us.png">
+</details>
+
+
+### CSS Validation
+
+<details><summary>style.css</summary>
+<img src="docs/validation /css-validation.png">
+</details>
+
+
+
+### Performance 
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
+
+<details><summary>Home</summary>
+<img src="docs/LH-Validation/home-LH-validation.png">
+</details>
+<details><summary>Our Services</summary>
+<img src="docs/LH-Validation/Services-LH-validation.png">
+</details>
+<details><summary>About Us</summary>
+<img src="docs/LH-Validation/about-LH-validation.png">
+</details>
+<details><summary>Contact Us</summary>
+<img src="docs/LH-Validation/contact-us-LH-validation.png">
+</details>
+
+
+### Performing tests on various devices 
+The website was tested on the following devices:
+- Imac 24-inch M1 2021
+- Ipad Pro 2021
+- Apple Iphone 14 Pro
+- Lenovo ThinkPad X13 
+
+In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
+
+### Browser compatibility
+The website was tested on the following browsers:
+- Safari
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+
+## Deployment
+The website was deployed using GitHub Pages by following these steps:
+1. In the GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+3. For the source select Branch: master
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is live at https://disaac318.github.io/Casa-Correa-Resort/"
+
+
+## Credits
+Images not referenced below are owned by the developer.
+
+### Media
+In order of appearance:
+- [About Us](assets/images/ima2.jpeg): Photo by <a href="https://stock.adobe.com/uk/contributor/205314365/art-photo?load_type=author&prev_url=detail">Art_Photo</a> on <a href="https://stock.adobe.com/uk/images/portrait-of-beauty-asian-woman-read-the-paper-book-work-study-and-looking-at-page-magazine-while-sitting-in-swimming-pool-on-summer-travel-vacation-relaxing-at-resort-spa/431438993">Adobe Stock</a>  on standard license.
+- [Contact Us](assets/images/ima1.jpeg): Photo by <a href="https://stock.adobe.com/uk/contributor/206922540/wavebreak3?load_type=author&prev_url=detail"> wavebreak3</a> on <a href="https://stock.adobe.com/uk/images/happy-diverse-group-of-friends-having-pool-party-playing-guitar-in-garden/592438929">Adobe Stock</a>  on standard license.
 
   
 ### Code
 
 - The HTML for the responsive [Navbar with toggler](https://getbootstrap.com/docs/5.0/components/navbar/#toggler) was taken from the Bootstrap v5.0 documentation code snippet
-<<<<<<< HEAD
-- [Carousel](https://getbootstrap.com/docs/5.0/components/carousel/#with-indicators) on index page was taken from Bootrap v5.0 documentation code snippet.
-=======
 - [Carousel](https://getbootstrap.com/docs/5.0/components/carousel/#with-indicators) on index page was taken from Bootrap v5.0 documentation code snippet
->>>>>>> origin/main
 
 
 ## Acknowledgements
-I would like to take the opportunity to thank:
-- My wife who own the restaurant that inspired this website
+I would like to take the opportunity to thank wife who owns the newly constucted private resort which inspired me to create this website for future use.
