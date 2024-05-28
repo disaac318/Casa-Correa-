@@ -185,9 +185,9 @@
 ### Returning User Experience
 #### As a returning user, I want to receive regular updates about the latest news, events, and developments at the resort.
 
-- The home page offers newsletter to regularly communicates with the subscribers  to communicate important updates, such as new amenities, changes in services, or upcoming events, directly to subscribers.
+- The home page offers newsletter to regularly communicates with the subscribers  about important updates, such as new amenities, changes in services, or upcoming events, directly to subscribers.
 - The newsletter also highlights special offers, discounts, and promotions, encouraging bookings and repeat visits.
-- The newsletter nforms subsribers about any temporary closures, maintenance schedules, price updates, additional amenities or renovations affecting specific areas or amenities.
+- The newsletter informs subsribers about any temporary closures, maintenance schedules, price updates, additional amenities or renovations affecting specific areas or amenities.
     
 
 
