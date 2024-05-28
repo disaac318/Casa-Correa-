@@ -18,6 +18,14 @@
     - [User Stories](#user-stories)
       - [What I need to know as a First-time User](#what-i-need-to-know-as-a-first-time-user)
       - [What I need to know as Returning Customer](#what-i-need-to-know-as-returning-customer)
+  - [Testing User Stories from User Experience (UX) Section](#testing-user-stories-from-user-experience-ux-section)
+    - [First Time User Experience](#first-time-user-experience)
+      - [As a first-time user exploring the website, I want a clear and straightforward understanding of what the website offers.](#as-a-first-time-user-exploring-the-website-i-want-a-clear-and-straightforward-understanding-of-what-the-website-offers)
+      - [As a first-time user exploring the website, I want to understand what to expect during my stay and seek information and confirmation that my investment will result in a satisfactory and enjoyable experience.](#as-a-first-time-user-exploring-the-website-i-want-to-understand-what-to-expect-during-my-stay-and-seek-information-and-confirmation-that-my-investment-will-result-in-a-satisfactory-and-enjoyable-experience)
+      - [As a first-time user exploring the website, I want to know the accessibility and assess the area's safety and security, particularly for those unfamiliar with the neighbourhood or travelling alone.](#as-a-first-time-user-exploring-the-website-i-want-to-know-the-accessibility-and-assess-the-areas-safety-and-security-particularly-for-those-unfamiliar-with-the-neighbourhood-or-travelling-alone)
+      - [As a first-time user exploring the website, I want clear pricing information that helps me decide whether the resort fits my budget.](#as-a-first-time-user-exploring-the-website-i-want-clear-pricing-information-that-helps-me-decide-whether-the-resort-fits-my-budget)
+    - [Returning User Experience](#returning-user-experience)
+      - [As a returning user, I want to receive regular updates about the latest news, events, and developments at the resort.](#as-a-returning-user-i-want-to-receive-regular-updates-about-the-latest-news-events-and-developments-at-the-resort)
   - [Design](#design)
     - [Design Choices](#design-choices)
     - [Colour](#colour)
@@ -148,6 +156,38 @@
 10. Access to guest testimonials, reviews, or ratings from other customers to help inform your decisions and enhance future stays.
 11. Contact information for customer support or guest services, including phone numbers, email addresses, and live chat options for assistance with reservations, inquiries, or special requests.
 12. Information about dedicated customer service representatives or concierge services available to assist with any questions or concerns during your stay.
+
+
+## Testing User Stories from User Experience (UX) Section
+    
+### First Time User Experience
+#### As a first-time user exploring the website, I want a clear and straightforward understanding of what the website offers.
+- 	Users are greeted with a welcoming introduction that includes the resort's name and location, giving them a clear sense of where they might be staying.  
+- 	The hero page receives first-time users with a brief introduction about the resort with the slogan “ Relax, Refresh, Reunite!   First-time visitors can expect a serene and rejuvenating environment where they can unwind and de-stress. Visitors can anticipate a variety of amenities and activities designed for relaxation and wellness, such as spa services, swimming pools, and tranquil settings. Additionally, they can look forward to opportunities for reconnecting with loved ones through family-friendly activities, dining options, and communal spaces that foster togetherness.
+- The home page features carousels of images that describe various accommodations available, such as rooms, suites, and villas, with specifics about room sizes, amenities, and views.
+
+#### As a first-time user exploring the website, I want to understand what to expect during my stay and seek information and confirmation that my investment will result in a satisfactory and enjoyable experience.
+- The homepage features customers reviews section where the first-time user can rely on reviews to build trust in the resort's quality and reliability. Authentic feedback from previous guests reassures them that the resort meets their expectations.
+- Reviews offer real-life experiences from other guests, providing first-time users a realistic understanding of what to expect during their stay. This includes details about amenities, service quality, and overall atmosphere.
+- Choosing a new resort involves uncertainty. Reviews help reduce this by providing additional information and confirming that others have had positive experiences, making first-time users feel more confident in their choice.
+
+#### As a first-time user exploring the website, I want to know the accessibility and assess the area's safety and security, particularly for those unfamiliar with the neighbourhood or travelling alone.
+- At the bottom of the page, the footer section offers first-time users access to essential details about the resort's physical location, contact person, phone number, and email address. Here, visitors can swiftly communicate or submit inquiries, ensuring prompt responses to their needs.
+- Knowing the location allows first-time users to assess how easily they can reach the resort, whether by car, public transportation, or other means. This is particularly important for travellers who may be unfamiliar with the area.  The site's Contact Us page has full information about the location.  It features an interactive map that allows users to zoom in and out, explore different views (such as satellite or street view), and click on points of interest for more information.
+- It helps users get directions and navigate to the resort, often integrating with GPS and navigation apps for real-time guidance.
+
+#### As a first-time user exploring the website, I want clear pricing information that helps me decide whether the resort fits my budget.
+- The website has dedicated pricing information on our services page. First-time users can easily find it through the navigation link at the top of the website. 
+- Our services page has Detailed pricing that can highlight the value and inclusions of different packages or deals, showcasing what guests will receive for their money.
+- It provides transparency about the costs associated with accommodations, amenities, and services, helping to set realistic expectations for potential guests.
+- The Contact Us page also provide an easy way for visitors to contact the business, whether for inquiries, support, feedback, or reservations.  It encourages visitors to reach out through inquiries, feedback, or service requests, fostering a more interactive relationship with the audience.
+
+### Returning User Experience
+#### As a returning user, I want to receive regular updates about the latest news, events, and developments at the resort.
+
+- The home page offers newsletter to regularly communicates with the subscribers  to communicate important updates, such as new amenities, changes in services, or upcoming events, directly to subscribers.
+- The newsletter also highlights special offers, discounts, and promotions, encouraging bookings and repeat visits.
+- The newsletter nforms subsribers about any temporary closures, maintenance schedules, price updates, additional amenities or renovations affecting specific areas or amenities.
     
 
 
